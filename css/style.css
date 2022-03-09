@@ -1,0 +1,18 @@
+.container{
+    text-align: center;
+    background-color: cornflowerblue;
+    padding: 5vw;
+    margin: 2.5vw 10vw;
+    font-family: sans-serif;
+}
+.find-state{
+    background-color: rgb(27, 54, 114);
+    border: solid 2px rgb(27, 54, 114);
+    padding: .5vw 1.5vw;
+    border-radius: 5vw;
+    color: white;
+    font-size: 2vw;
+}
+.find-state:hover{
+    background-color: rgb(21, 38, 75);
+}
